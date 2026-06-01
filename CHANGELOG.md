@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/chiply/package-tutor/compare/v0.1.0...v0.1.1) (2026-06-01)
+
+
+### Features
+
+* initial release of package-tutor ([bd88c56](https://github.com/chiply/package-tutor/commit/bd88c56e60e48358786dec35abcf88a3aa52c3fc))
+
 ## 0.1.0
 
 Initial release.

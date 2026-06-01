@@ -2,7 +2,7 @@
 
 (package "package-tutor"
 ; x-release-please-start-version
-         "0.1.0"
+         "0.1.1"
 ; x-release-please-end
          "Auto-generate an org tutorial for any package")
 
